@@ -21,12 +21,13 @@ projects:
   # sort_by options:
   #   - pushed
   #   - stars
-  limit: 9
+  limit: 
   exclude:
     archived: false
-    forks: true
-    projects:
-    # - repo-name
+    forks: false
+    projects: lantaoyu.github.io , personal-website
+    # lantaoyu.github.io
+    #personal-website
 
 # social_media:
   # behance: your_username
