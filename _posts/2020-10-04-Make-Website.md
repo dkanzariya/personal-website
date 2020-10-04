@@ -1,6 +1,6 @@
 ---
 title: "Personal Website"
-published: true
+published: false
 ---
 
 # Get started building your personal website

@@ -1,5 +1,5 @@
 layout: sidebar
-style: light
+style: dark
 
 plugins:
   - jekyll-octicons
@@ -25,7 +25,7 @@ projects:
   exclude:
     archived: false
     forks: false
-    projects: lantaoyu.github.io , personal-website
+    projects: lantaoyu.github.io , personal-website , dkanzariya.github.io
     # lantaoyu.github.io
     #personal-website
 
