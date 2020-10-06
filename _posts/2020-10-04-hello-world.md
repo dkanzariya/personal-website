@@ -1,6 +1,6 @@
 ---
 title: "The Meaning of Life"
-published: true
+published: false
 ---
 
 # Life is not mean.
