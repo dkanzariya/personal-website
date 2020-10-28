@@ -1,3 +1,3 @@
 # Personal Website
 
-[here](https://dkanzariya.github.io/)
+[https://dkanzariya.github.io/](https://dkanzariya.github.io/)
