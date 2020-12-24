@@ -1,5 +1,5 @@
 layout: sidebar
-style: light
+style: dark
 
 plugins:
   - jekyll-octicons
@@ -33,20 +33,25 @@ social_media:
   twitter: dkanzariyaa
   linkedin: dharmesh-kanzariya-a32b1917b
   medium: dkanzariya
-  instagram: dkanzariya
+ # instagram: dkanzariya
+  #unsplash: your_username
+  #vk: your_username
   
-  # behance: your_username
-  # dribbble: your_username
-  # facebook: your_username
-  # hackerrank: your_username
-  # instagram: your_username
-  # keybase: your_username
-  # linkedin: your_username
-  # mastodon: your_username
+  #youtube: your_username
+  #behance: your_username
+  #dribbble: your_username
+  #facebook: your_username
+  #hackerrank: your_username
+  #keybase: your_username
+  #mastodon: your_username
+  #stackoverflow: your_user_id
+  #telegram: your_username
+  #website: http://your_website_url
   # medium: your_username
-  # stackoverflow: your_user_id
-  # telegram: your_username
-  # twitter: dkanzariyaa
+  # linkedin: your_username
+  # instagram: your_username
+    
+# twitter: dkanzariyaa
   # unsplash: your_username
   # vk: your_username
   # website: http://your_website_url
